@@ -83,5 +83,5 @@ The analysis showed that from rural to suburban and suburban to urban, total rid
 #### Other Useful Articles
 
 ###### (1) *Place Legend Outside the Plot in Matplotlib*. (2020, Dec. 13). DelftStack. Retrieved on July 14, 2021 from https://www.delftstack.com/howto/matplotlib/how-to-place-legend-outside-of-the-plot-in-matplotlib/
-###### (2) Twin, A. (2020, Sept. 28). *Market Research. Investopedia*. https://www.investopedia.com/terms/m/market-research.asp
+###### (2) Twin, A. (2020, Sept. 28). *Market Research*. Investopedia. https://www.investopedia.com/terms/m/market-research.asp
 ###### (3) Reh, J.F. (2019, July 26). *The Importance of Benchmarking in Improving Business Operations*. TheBalanceCareers. https://www.thebalancecareers.com/overview-and-examples-of-benchmarking-in-business-2275114
